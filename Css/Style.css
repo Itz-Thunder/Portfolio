@@ -461,10 +461,20 @@ h2 span.stop-blinking::before {
 
 /* _____________________________ */
 
-hr{
+hr {
     border: 5px solid #0077b5;
     border-radius: 50%;
-    
-    margin:auto;
 
+    margin: auto;
+
+}
+
+.intro-count {
+    min-height: 180px;
+}
+
+.footer {
+    height: 400px;
+    background-color: #a2d9ff;
+    border-radius: 50% 50% 0px 0px;
 }
